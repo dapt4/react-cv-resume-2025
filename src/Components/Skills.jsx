@@ -9,7 +9,7 @@ export const Skills = ({
       <section className="technical-skills section" id="skills">
         <h2 className="section-title">{technicalLabel}</h2>
         <div className="skills__content bd-grid">
-          <ul className="skills__data">
+          <ul className="skills__data--grid">
             {technicalSkills.map((skill) => <Skill key={skill} skill={skill} />)}
           </ul>
         </div>

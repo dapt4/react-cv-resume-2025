@@ -74,9 +74,8 @@ export const Data = {
         company: "Asesoría y Medios de Gestión S.L.",
         description: [
           `Mobile application development with Ionic, Cordova, and Angular.
-          Backend development based on SQL, implementation of best practices, 
-          and creation of components and services to be shared across applications, 
-          solving issues related to disparity between them.`,
+          Backend development based on nodejs, SQL, implementation of best practices 
+          and services to be shared across applications.`,
           `Technologies used include Ionic, Cordova, Angular 15, Sass, Node.js,
           Express, MariaDB, and SQL.`,
         ],
@@ -101,8 +100,7 @@ export const Data = {
         description: [
           `We developed an agriculture application from scratch featuring maps 
           and charts. Reusable and functional components were created to 
-          standardize the app and enhance usability. The app is used by 
-          thousands of users worldwide.`,
+          standardize the app and enhance usability.`,
           `Technologies used include TypeScript, Sass, Highcharts,
           and Leaflet.`,
         ],
