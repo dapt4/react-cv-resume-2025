@@ -1,9 +1,9 @@
 {
   "name": "react-resume",
+  "homepage": "https://dapt4.github.io/react-cv-resume-2025/",
   "version": "3.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://dapt4.github.io/react-cv-resume-2025",
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
