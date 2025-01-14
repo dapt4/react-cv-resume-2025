@@ -36,11 +36,11 @@ export const Resume = () => {
           <div className="resume__left">
             <Profile {...profile} {...socialMedia} isMobileView={!matches} />
             <AboutMe {...aboutMe} />
+            <Academic {...experience} />
             <Skills {...skills} />
           </div>
           <div className="resume__right">
             <Works {...experience} />
-            <Academic {...experience} />
             <Proyects {...experience} />
           </div>
         </div>

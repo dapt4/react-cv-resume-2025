@@ -591,7 +591,7 @@ button.generate__btn {
   }
 }
 
-/*========== NAV CUSTOM ==========*/
+/*========== CSS CUSTOM ==========*/
 
 .nav__toggle--fixed {
   display: flex;
@@ -616,7 +616,7 @@ button.generate__btn {
 .skills__data--grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 10px;
+  gap: 5px;
 }
 
 .skills__name {
@@ -627,9 +627,21 @@ button.generate__btn {
   margin-bottom: 15px;
 }
 
+.mb-0 {
+  margin-bottom: 0px;
+}
+
+.mt-5 {
+  margin-top: 15px;
+}
+
+.section {
+  padding: 0px;
+  padding-top: 1rem;
+}
+
 /*html {*/
 /*  font-size: 80%;*/ /* for make the text more small */
 /*}*/
 
-/*==========  \ NAV CUSTOM ==========*/
-
+/*==========  \ CSS CUSTOM ==========*/
