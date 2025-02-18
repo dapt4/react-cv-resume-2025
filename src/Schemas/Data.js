@@ -64,6 +64,12 @@ export const Data = {
         url: "https://github.com/dapt4",
         className: "bxl-github",
       },
+      {
+        label: "Visit Diego Perozo's Portfolio",
+        name: "portfolio",
+        url: "https://dapt4.github.io/react-portfolio24/",
+        className: "bx-briefcase",
+      }
     ],
   },
   experience: {

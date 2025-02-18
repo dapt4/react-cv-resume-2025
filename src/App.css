@@ -423,6 +423,13 @@ button.generate__btn {
   margin-right: 0.75rem;
 }
 
+
+/*========== CUSTOM CSS ==========*/
+.custom-icons-grid {
+  grid-template-columns: repeat(5, max-content);
+}
+/*========== \ CUSTOM CSS ==========*/
+
 .print {
   display: none !important;
 }
@@ -553,6 +560,13 @@ button.generate__btn {
     margin-bottom: 0;
   }
 
+/*========== CUSTOM CSS ==========*/
+  .custom-icons-grid {
+    grid-template-columns: none;
+    justify-content: flex-start;
+  }
+/*========== \ CUSTOM CSS ==========*/
+
   .home__contact {
     grid-template-columns: none;
     justify-content: flex-start;
@@ -639,6 +653,11 @@ button.generate__btn {
   padding: 0px;
   padding-top: 1rem;
 }
+
+.short{
+  margin-bottom: 0px;
+}
+
 
 /*html {*/
 /*  font-size: 80%;*/ /* for make the text more small */

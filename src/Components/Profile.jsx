@@ -24,7 +24,7 @@ export const Profile = ({
             <i className="bx bx-map home__icon" /> {location}
           </span>
         </div>
-        <div className='home__contact bd-grid'>
+        <div className='home__contact bd-grid custom-icons-grid'>
           <span className="social__link print">
             <i className="bx bx-map social__icon" /> {location}
           </span>

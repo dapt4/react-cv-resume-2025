@@ -18,7 +18,7 @@ export function Menu() {
         <div className="nav__toggle--fixed" id="nav-toggle">
           <i className="bx bx-save nav__icon" />
           <span onClick={handleExport} className="nav__logo">
-            Guardar en PDF
+            Save in PDF
           </span>
         </div>
       </nav>
