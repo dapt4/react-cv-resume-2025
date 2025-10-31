@@ -48,7 +48,7 @@ export const Data = {
       "CI/CD",
       "AWS",
       "Digital Ocean",
-      "docker"
+      "docker",
     ],
     softSkills: [
       "Analytical skills",
@@ -82,14 +82,24 @@ export const Data = {
         name: "portfolio",
         url: "https://dapt4.github.io/react-portfolio24/",
         className: "bx-briefcase",
-      }
+      },
     ],
   },
   experience: {
     works: [
       {
+        title: "Computer systems analyst (FullStack dev)",
+        period: "Jun 2025 - Present",
+        company: "Ultreya Soluciones S.L.",
+        description: [
+          `Development of multiple applications from Backend and Frontend 
+          including Bash scripts (linux) development. Experience with WSL, 
+          Vscode, SSH, OpenVpn, Kanban, SQL, Mysql and Mongodb`,
+        ],
+      },
+      {
         title: "Mobile FullStack Developer",
-        period: "May 2024 - Present",
+        period: "May 2024 - Jun 2025",
         company: "Asesoría y Medios de Gestión S.L.",
         description: [
           `Mobile application development with Ionic, Cordova, and Angular.
