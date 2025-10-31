@@ -92,8 +92,8 @@ export const Data = {
         period: "Jun 2025 - Present",
         company: "Ultreya Soluciones S.L.",
         description: [
-          `Development of multiple applications from Backend and Frontend 
-          including Bash scripts (linux) development. Experience with WSL, 
+          `Development of multiple applications from Backend (python/flask) and
+          Frontend (React) including Bash scripts (linux) development. Experience with WSL, 
           Vscode, SSH, OpenVpn, Kanban, SQL, Mysql and Mongodb`,
         ],
       },
