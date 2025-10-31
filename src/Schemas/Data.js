@@ -94,7 +94,7 @@ export const Data = {
         description: [
           `Development of multiple applications from Backend (python/flask) and
           Frontend (React) including Bash scripts (linux) development. Experience with WSL, 
-          Vscode, SSH, OpenVpn, Kanban, SQL, Mysql and Mongodb`,
+          Vscode, SSH, OpenVpn, Kanban, SQL, Mysql and Mongodb.`,
         ],
       },
       {
