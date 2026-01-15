@@ -1,7 +1,7 @@
 export const Data = {
   profile: {
     name: "Diego Perozo",
-    ocupation: "Mobile FullStack Developer",
+    ocupation: "FullStack Developer | Software Engineer",
     location: "Spain",
     email: "diegodapt18@gmail.com",
     telephone: "+34 643891809",
@@ -9,9 +9,9 @@ export const Data = {
   },
   aboutMe: {
     label: "Profile",
-    description: `Mobile application development, integrating frontend and backend to
-    create complete and functional solutions. Experienced in implementing 
-    intuitive interfaces and API connectivity.`,
+    description: `Focused on scalability and performance.
+    I deliver end-to-end solutions by combining reactive frontend architectures
+    with distributed backends (Microservices/REST).`,
   },
   skills: {
     technicalLabel: "Technologies",
@@ -28,37 +28,29 @@ export const Data = {
       "vuejs",
       "sass",
       "python",
+      "Flask",
       "django",
       "SQL",
       "postgreSQL",
       "MySQL",
       "MariaDB",
-      "eslint",
       "Linear",
       "SCRUM",
       "Kanban",
       "Jest/Vitest",
-      "Test unitario",
-      "Test de Integración",
-      "Test E2E",
-      "github",
-      "Bitbucket",
+      "Testing",
       "Git",
+      "github - gitlab",
       "API REST",
-      "CI/CD",
-      "AWS",
-      "Digital Ocean",
+      "microservices",
       "docker",
+      "ssh linux vm",
     ],
     softSkills: [
-      "Analytical skills",
       "Problem solving",
       "Critical thinking",
       "Teamwork",
       "Communication",
-      "Proactivity",
-      "Creativity",
-      "Self-learning",
       "Mentoring",
     ],
   },
@@ -92,9 +84,11 @@ export const Data = {
         period: "Jun 2025 - Present",
         company: "Ultreya Soluciones S.L.",
         description: [
-          `Development of multiple applications from Backend (python/flask) and
-          Frontend (React) including Bash scripts (linux) development. Experience with WSL, 
-          Vscode, SSH, OpenVpn, Kanban, SQL, Mysql and Mongodb.`,
+          `Backend development with: Python, Flask, SQL, MongoDB, MariaDB; frontend 
+          development with: React, Tailwind, Vite; Systems management: SSH, Docker, 
+          process automation (Bash/python scripts linux), Prometheus, Grafana, 
+          Redis, microservices, webhooks; Desktop: WSL2, Vscode, OpenVpn, Kanban.
+          `,
         ],
       },
       {
@@ -150,7 +144,7 @@ export const Data = {
       {
         career: "Backend development with python Django, flask, fastAPI",
         date: "2017",
-        institution: "https://platzi.com/ruta/backend-python/",
+        institution: "https://platzi.com",
       },
       {
         career: "Bachelor of Graphic Design",
@@ -164,10 +158,10 @@ export const Data = {
         company: "CA Mon Commerce - https://www.ca-moncommerce.com",
         period: "Dec 2023 - May 2024",
         description: [
-          `Development of a web application for scheduling appointments with the
-          public, featuring user registration, calendar management, and automated 
-          notifications. The application prioritizes user experience and security, 
-          using modern web technologies.`,
+          `Web application for public appointment scheduling with user
+          registration, calendar management, and automated notifications. 
+          Built with modern technologies, prioritizing user experience and 
+          security.`,
         ],
       },
       {
@@ -175,10 +169,9 @@ export const Data = {
         company: "Argotec S.L. - https://qampo.es",
         period: "Jan 2020 - Dec 2023",
         description: [
-          `Development of a web application for agronomy, focusing on managing 
-          agricultural data, crop monitoring, and resource optimization. 
-          The application provides data-driven insights and a user-friendly 
-          interface for agricultural professionals.`,
+          `Web application for agricultural data management, crop monitoring, 
+          and resource optimization. Provides data-driven insights through a 
+          user-friendly interface for agricultural professionals.`,
         ],
       },
     ],

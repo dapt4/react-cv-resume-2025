@@ -388,7 +388,9 @@ button.generate__btn {
   gap: 0.5rem;
 }
 
-.education__title,
+.education__title {
+  font-size: 0.9em;
+}
 .experience__title {
   font-size: var(--h3-font-size);
 }
@@ -402,6 +404,7 @@ button.generate__btn {
 
 .education__year {
   font-size: var(--smaller-font-size);
+  color: var(--text-color);
 }
 
 .skills__content {

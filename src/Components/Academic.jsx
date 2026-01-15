@@ -19,8 +19,8 @@ const Academy = ({ career, date, institution }) => {
         <span className="education__line"></span>
       </div>
       <div className="education__data bd-grid">
-        <h3 className="education__title">{career}</h3>
-        <span className="education__year">{date}</span>
+        <h3 className="education__title">{career} - <span className="education__year">{date}</span></h3>
+        
         <span className="education__studies">{institution}</span>
       </div>
     </div>
