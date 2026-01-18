@@ -1,0 +1,122 @@
+\documentclass[11pt,a4paper]{article}
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\setlist{noitemsep}
+
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{Diego Perozo}}\\
+\vspace{4pt}
+FullStack Developer (Python / Flask / Node.js / Express)\\
+Spain \\
+\href{mailto:diegodapt18@gmail.com}{diegodapt18@gmail.com} \;|\;
++34 643 891 809 \\
+\href{https://linkedin.com/in/diegoperozotroncone}{LinkedIn} \;|\;
+\href{https://github.com/dapt4}{GitHub} \;|\;
+\href{https://dapt4.github.io/react-portfolio24}{Portfolio}
+\end{center}
+
+\section*{Professional Summary}
+FullStack Developer with strong experience building scalable backend systems using Python (Flask, Django) and Node.js (Express). Skilled in REST APIs, microservices, Docker, and Linux-based environments.
+
+\section*{Technical Skills}
+\textbf{Backend:} Python, Flask, Django, FastAPI, Node.js, Express \\
+\textbf{Frontend:} React, Angular, Ionic, Vue.js, JavaScript, TypeScript \\
+\textbf{Databases:} PostgreSQL, MySQL, MariaDB, MongoDB \\
+\textbf{DevOps:} Docker, Linux, SSH, Redis, Prometheus, Grafana \\
+\textbf{Tools:} Git, Bash, Vite \\
+\textbf{Methodologies:} Scrum, Kanban
+
+\section*{Experience}
+
+\textbf{FullStack Developer} — Ultreya Soluciones S.L. \\
+Jun 2025 -- Present
+\begin{itemize}
+  \item Backend development using Python and Flask.
+  \item Design and maintenance of REST APIs and microservices.
+  \item Infrastructure management with Docker and Linux.
+  \item Frontend development using React.
+\end{itemize}
+
+\textbf{Mobile FullStack Developer} — Asesoría y Medios de Gestión S.L. \\
+May 2024 -- Jun 2025
+\begin{itemize}
+  \item Backend services using Node.js and Express.
+  \item Mobile app development with Ionic and Angular.
+\end{itemize}
+
+\textbf{FullStack Developer} — With Madrid S.L. \\
+Dec 2023 -- May 2024
+\begin{itemize}
+  \item Backend development using Python and Django.
+  \item Secure API and model implementation.
+\end{itemize}
+
+\section*{Education}
+Backend Development with Python (Django, Flask, FastAPI) — Platzi \\
+Bachelor of Graphic Design — Universidad Rafael Belloso Chacín
+
+\end{document}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\setlist{noitemsep}
+
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{Diego Perozo}}\\
+\vspace{4pt}
+FullStack Developer (Python / Flask / Node.js / Express)\\
+Spain \\
+\href{mailto:diegodapt18@gmail.com}{diegodapt18@gmail.com} \;|\;
++34 643 891 809 \\
+\href{https://linkedin.com/in/diegoperozotroncone}{LinkedIn} \;|\;
+\href{https://github.com/dapt4}{GitHub} \;|\;
+\href{https://dapt4.github.io/react-portfolio24}{Portfolio}
+\end{center}
+
+\section*{Professional Summary}
+FullStack Developer with strong experience building scalable backend systems using Python (Flask, Django) and Node.js (Express). Skilled in REST APIs, microservices, Docker, and Linux-based environments.
+
+\section*{Technical Skills}
+\textbf{Backend:} Python, Flask, Django, FastAPI, Node.js, Express \\
+\textbf{Frontend:} React, Angular, Ionic, Vue.js, JavaScript, TypeScript \\
+\textbf{Databases:} PostgreSQL, MySQL, MariaDB, MongoDB \\
+\textbf{DevOps:} Docker, Linux, SSH, Redis, Prometheus, Grafana \\
+\textbf{Tools:} Git, Bash, Vite \\
+\textbf{Methodologies:} Scrum, Kanban
+
+\section*{Experience}
+
+\textbf{FullStack Developer} — Ultreya Soluciones S.L. \\
+Jun 2025 -- Present
+\begin{itemize}
+  \item Backend development using Python and Flask.
+  \item Design and maintenance of REST APIs and microservices.
+  \item Infrastructure management with Docker and Linux.
+  \item Frontend development using React.
+\end{itemize}
+
+\textbf{Mobile FullStack Developer} — Asesoría y Medios de Gestión S.L. \\
+May 2024 -- Jun 2025
+\begin{itemize}
+  \item Backend services using Node.js and Express.
+  \item Mobile app development with Ionic and Angular.
+\end{itemize}
+
+\textbf{FullStack Developer} — With Madrid S.L. \\
+Dec 2023 -- May 2024
+\begin{itemize}
+  \item Backend development using Python and Django.
+  \item Secure API and model implementation.
+\end{itemize}
+
+\section*{Education}
+Backend Development with Python (Django, Flask, FastAPI) — Platzi \\
+Bachelor of Graphic Design — Universidad Rafael Belloso Chacín
+
+\end{document}
