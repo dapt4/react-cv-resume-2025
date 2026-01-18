@@ -1,0 +1,68 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\setlist{noitemsep, topsep=0pt}
+
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{Diego Perozo}}\\
+\vspace{4pt}
+FullStack Developer (Python / Flask / Node.js / Express)\\
+Spain \\
+Email: diegodapt18@gmail.com \\
+Phone: +34 643 891 809 \\
+LinkedIn: linkedin.com/in/diegoperozotroncone \\
+GitHub: github.com/dapt4 \\
+Portfolio: dapt4.github.io/react-portfolio24
+\end{center}
+
+\section*{Professional Summary}
+FullStack Developer with experience building scalable backend systems using Python (Flask, Django, FastAPI) and Node.js (Express). Specialized in REST APIs, microservices, Docker, and Linux environments.
+
+\section*{Technical Skills}
+\textbf{Backend:} Python, Flask, Django, FastAPI, Node.js, Express \\
+\textbf{Frontend:} React, Angular, Ionic, Vue.js, JavaScript, TypeScript, Sass \\
+\textbf{Databases:} PostgreSQL, MySQL, MariaDB, MongoDB \\
+\textbf{Architecture:} REST APIs, Microservices \\
+\textbf{DevOps:} Docker, Linux, SSH, Redis, Prometheus, Grafana \\
+\textbf{Tools:} Git, Bash, Vite \\
+\textbf{Methodologies:} Scrum, Kanban
+
+\section*{Professional Experience}
+
+\textbf{Computer Systems Analyst / FullStack Developer} — Ultreya Soluciones S.L. \\
+Jun 2025 -- Present
+\begin{itemize}
+  \item Backend development with Python and Flask.
+  \item REST API and microservices implementation.
+  \item Frontend development using React.
+  \item Automation and deployment with Docker and Linux.
+\end{itemize}
+
+\textbf{Mobile FullStack Developer} — Asesoría y Medios de Gestión S.L. \\
+May 2024 -- Jun 2025
+\begin{itemize}
+  \item Mobile application development with Ionic and Angular.
+  \item Backend services using Node.js and Express.
+\end{itemize}
+
+\textbf{FullStack Developer} — With Madrid S.L. \\
+Dec 2023 -- May 2024
+\begin{itemize}
+  \item Backend development with Python and Django.
+  \item Secure REST APIs and data models.
+\end{itemize}
+
+\textbf{Frontend Developer} — Argotec S.L. \\
+Jan 2020 -- Dec 2023
+\begin{itemize}
+  \item Frontend development with TypeScript and Sass.
+  \item Data visualization with maps and charts.
+\end{itemize}
+
+\section*{Education}
+Backend Development with Python (Django, Flask, FastAPI) — Platzi, 2017 \\
+Bachelor’s Degree in Graphic Design — Universidad Rafael Belloso Chacín, 2014
+
+\end{document}
