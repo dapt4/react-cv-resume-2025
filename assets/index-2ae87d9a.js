@@ -49,8 +49,8 @@ object-assign
           Redis, microservices, webhooks; Desktop: WSL2, Vscode, OpenVpn, Kanban.
           `]},{title:"Mobile FullStack Developer",period:"May 2024 - Jun 2025",company:"Asesoría y Medios de Gestión S.L.",description:[`Mobile application development with Ionic, Cordova, and Angular.
           Backend development based on nodejs, SQL, implementation of best practices 
-          and services to be shared across applications.`,`Technologies used include Ionic, Cordova, Angular 15, Sass, Node.js,
-          Express, MariaDB, and SQL.`]},{title:"Fullstack developer",period:"Dec 2023 - May 2024",company:"With madrid S.L.",description:[`Frontend and backend development for a banking institution. 
+          and services to be shared across applications.`,`Technologies used include Ionic, Cordova, Angular 15, Sass, Python, 
+          Flask, Node.js, Express, MariaDB, and SQL.`]},{title:"Fullstack developer",period:"Dec 2023 - May 2024",company:"With madrid S.L.",description:[`Frontend and backend development for a banking institution. 
           The work primarily involved creating models, endpoints, and 
           integrating them with the UI, focusing on data security and 
           adding new features for optimization.`,`Technologies used include Python, Django, Wagtail, Nuxt, Vue.js, 
