@@ -97,7 +97,7 @@ export const Data = {
         company: "Asesoría y Medios de Gestión S.L.",
         description: [
           `Mobile application development with Ionic, Cordova, and Angular.
-          Backend development based on nodejs, SQL, implementation of best practices 
+          Backend development based on python, flask, nodejs, SQL, implementation of best practices 
           and services to be shared across applications.`,
           `Technologies used include Ionic, Cordova, Angular 15, Sass, Python, 
           Flask, Node.js, Express, MariaDB, and SQL.`,
