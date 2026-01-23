@@ -99,8 +99,8 @@ export const Data = {
           `Mobile application development with Ionic, Cordova, and Angular.
           Backend development based on nodejs, SQL, implementation of best practices 
           and services to be shared across applications.`,
-          `Technologies used include Ionic, Cordova, Angular 15, Sass, Node.js,
-          Express, MariaDB, and SQL.`,
+          `Technologies used include Ionic, Cordova, Angular 15, Sass, Python, 
+          Flask, Node.js, Express, MariaDB, and SQL.`,
         ],
       },
       {

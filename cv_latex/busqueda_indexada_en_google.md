@@ -1,8 +1,8 @@
 - site:*.lever.co Backend Developer
 - site:recruitee.com backend madrid
 - site:apply.workable.com python developer Europe
-- site:ashbyhq.com backend developer Europe
-- site:tellent.com backend developer
+- site:ashbyhq.com backend developer Europe ✅
+- site:tellent.com fullstack python spain
 
 
 # Alternativas a Lever ATS en España 2025
