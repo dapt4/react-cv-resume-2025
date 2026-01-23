@@ -1,0 +1,130 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+% Configuración de colores
+\definecolor{darkblue}{RGB}{0,51,102}
+
+% Configuración de secciones
+\titleformat{\section}{\Large\bfseries\color{darkblue}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\large\bfseries}{}{0em}{}
+
+% Configuración de hyperlinks
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=darkblue
+}
+
+% Eliminar numeración de páginas
+\pagestyle{empty}
+
+\begin{document}
+
+% Encabezado
+\begin{center}
+    {\Huge\bfseries DIEGO PEROZO}\\[0.3em]
+    {\Large FullStack Developer | Software Engineer}\\[0.8em]
+    \begin{tabular}{c c c}
+        \textbf{Email:} diegodapt18@gmail.com & 
+        \textbf{Teléfono:} +34 643 891 809 & 
+        \textbf{Ubicación:} Segovia, España \\
+    \end{tabular}\\[0.3em]
+    \begin{tabular}{c c c}
+        \textbf{LinkedIn:} linkedin.com/in/diegoperozotroncone & 
+        \textbf{GitHub:} github.com/dapt4 & 
+        \textbf{Portfolio:} dapt4.github.io/reactportfolio24 \\
+    \end{tabular}
+\end{center}
+
+\vspace{0.5em}
+
+% Perfil Profesional
+\section*{PERFIL PROFESIONAL}
+Desarrollador FullStack especializado en Python/Flask y JavaScript/Express con más de 5 años de experiencia. Enfocado en escalabilidad y rendimiento, entrego soluciones end-to-end combinando arquitecturas frontend reactivas con backends distribuidos (Microservices/REST). Experiencia en desarrollo de aplicaciones web y móviles, integración de APIs y gestión de sistemas en producción.
+
+% Experiencia Laboral
+\section*{EXPERIENCIA LABORAL}
+
+\subsection*{Computer Systems Analyst (FullStack Developer)}
+\textbf{Ultreya Soluciones S.L.} \hfill \textit{Junio 2025 - Presente}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=3pt]
+    \item Desarrollo backend con Python, Flask, SQL, MongoDB y MariaDB
+    \item Desarrollo frontend con React, Tailwind y Vite
+    \item Gestión de sistemas: SSH, Docker, automatización de procesos (Bash/Python scripts en Linux)
+    \item Implementación de microservicios, webhooks, Prometheus, Grafana y Redis
+    \item Entorno de desarrollo: WSL2, VSCode, OpenVPN, metodología Kanban
+\end{itemize}
+
+\subsection*{Mobile FullStack Developer}
+\textbf{Asesoría y Medios de Gestión S.L.} \hfill \textit{Mayo 2024 - Junio 2025}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=3pt]
+    \item Desarrollo de aplicaciones móviles con Ionic, Cordova y Angular
+    \item Desarrollo backend basado en Node.js y SQL
+    \item Implementación de mejores prácticas y servicios compartidos entre aplicaciones
+    \item Stack tecnológico: Ionic, Cordova, Angular 15, Sass, Python, Flask, Node.js, Express, MariaDB, SQL
+\end{itemize}
+
+\subsection*{FullStack Developer}
+\textbf{With Madrid S.L.} \hfill \textit{Diciembre 2023 - Mayo 2024}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=3pt]
+    \item Desarrollo frontend y backend para institución bancaria
+    \item Creación de modelos, endpoints e integración con UI
+    \item Enfoque en seguridad de datos y optimización de funcionalidades
+    \item Stack tecnológico: Python, Django, Wagtail, Nuxt, Vue.js, TypeScript, Sass, Vuex
+\end{itemize}
+
+\subsection*{Frontend Developer}
+\textbf{Argotec S.L.} \hfill \textit{Enero 2020 - Diciembre 2023}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=3pt]
+    \item Desarrollo desde cero de aplicación agrícola con mapas y gráficos
+    \item Creación de componentes reutilizables y funcionales para estandarización
+    \item Mejora de usabilidad y experiencia de usuario
+    \item Stack tecnológico: TypeScript, Sass, Highcharts, Leaflet
+\end{itemize}
+
+% Proyectos Destacados
+\section*{PROYECTOS DESTACADOS}
+
+\subsection*{Aplicación Web para Institución Bancaria - CA Mon Commerce}
+\textit{Diciembre 2023 - Mayo 2024} | \textbf{Sitio:} ca-moncommerce.com\\
+Aplicación web para programación de citas públicas con registro de usuarios, gestión de calendarios y notificaciones automatizadas. Desarrollada con tecnologías modernas priorizando experiencia de usuario y seguridad.
+
+\subsection*{Plataforma Web de Agricultura - Argotec S.L. - Qampo}
+\textit{Enero 2020 - Diciembre 2023} | \textbf{Sitio:} qampo.es\\
+Aplicación web para gestión de datos agrícolas, monitoreo de cultivos y optimización de recursos. Proporciona información basada en datos a través de una interfaz amigable para profesionales agrícolas.
+
+% Habilidades Técnicas
+\section*{HABILIDADES TÉCNICAS}
+
+\begin{itemize}[leftmargin=*, noitemsep, topsep=3pt]
+    \item \textbf{Backend:} Python, Flask, Django, FastAPI, Node.js, Express
+    \item \textbf{Frontend:} React, Vue.js, Angular, Ionic, TypeScript, JavaScript, Sass
+    \item \textbf{Bases de Datos:} PostgreSQL, MySQL, MariaDB, MongoDB, SQL
+    \item \textbf{DevOps \& Herramientas:} Docker, SSH, Linux, VM, Git, GitHub, GitLab
+    \item \textbf{Arquitectura:} API REST, Microservicios, Webhooks
+    \item \textbf{Monitoreo:} Prometheus, Grafana, Redis
+    \item \textbf{Testing:} Jest, Vitest
+    \item \textbf{Metodologías:} SCRUM, Kanban, Linear
+    \item \textbf{Móvil:} Cordova, Ionic
+\end{itemize}
+
+% Soft Skills
+\section*{SOFT SKILLS}
+Resolución de problemas • Pensamiento crítico • Trabajo en equipo • Comunicación efectiva • Mentoría y liderazgo técnico
+
+% Educación
+\section*{EDUCACIÓN}
+
+\textbf{Desarrollo Backend con Python} (Django, Flask, FastAPI) \hfill 2017\\
+Platzi
+
+\textbf{Licenciatura en Diseño Gráfico} \hfill 2014\\
+Universidad Rafael Belloso Chacín
+
+\end{document}
