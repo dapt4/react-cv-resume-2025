@@ -33,7 +33,7 @@
     \begin{tabular}{c c c}
         \textbf{Correo:} diegodapt18@gmail.com & 
         \textbf{Teléfono:} +34 643 891 809 & 
-        \textbf{Ubicación:} Segovia, España \\
+        \textbf{Ubicación:} España \\
     \end{tabular}\\[0.3em]
     \begin{tabular}{c c c}
         \textbf{LinkedIn:} linkedin.com/in/diegoperozotroncone & 
@@ -65,7 +65,7 @@ Desarrollador FullStack especializado en Python/Flask y JavaScript/Express con m
 \textbf{Asesoría y Medios de Gestión S.L.} \hfill \textit{Mayo 2024 - Junio 2025}
 \begin{itemize}[leftmargin=*, noitemsep, topsep=3pt]
     \item Desarrollo de aplicaciones móviles con Ionic, Cordova y Angular
-    \item Desarrollo backend basado en Node.js y SQL
+    \item Desarrollo backend basado en Python, Flask, Node.js, Express y SQL
     \item Implementación de mejores prácticas y servicios compartidos entre aplicaciones
     \item Tecnologías utilizadas: Ionic, Cordova, Angular 15, Sass, Python, Flask, Node.js, Express, MariaDB, SQL
 \end{itemize}
@@ -92,7 +92,7 @@ Desarrollador FullStack especializado en Python/Flask y JavaScript/Express con m
 \section*{PROYECTOS DESTACADOS}
 
 \subsection*{Aplicación Web para Institución Bancaria - CA Mon Commerce}
-\textit{Diciembre 2023 - Mayo 2024} | \textbf{Sitio:} ca-moncommerce.com\\
+\textit{Diciembre 2023 - Mayo 2024} | \textbf{Sitio:} www.ca-moncommerce.com\\
 Aplicación web para programación de citas públicas con registro de usuarios, gestión de calendarios y notificaciones automatizadas. Desarrollada con tecnologías modernas priorizando experiencia de usuario y seguridad.
 
 \subsection*{Plataforma Web de Agricultura - Argotec S.L. - Qampo}
@@ -122,9 +122,9 @@ Resolución de problemas • Pensamiento crítico • Trabajo en equipo • Comu
 \section*{FORMACIÓN}
 
 \textbf{Desarrollo Backend con Python} (Django, Flask, FastAPI) \hfill 2017\\
-Platzi
+Platzi | platzi.com
 
 \textbf{Licenciatura en Diseño Gráfico} \hfill 2014\\
 Universidad Rafael Belloso Chacín
 
-\end{document}end{document}
+\end{document}

@@ -1,0 +1,142 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+
+% Color configuration
+\definecolor{darkblue}{RGB}{0,51,102}
+\definecolor{lightgray}{RGB}{100,100,100}
+
+% Section configuration
+\titleformat{\section}{\Large\bfseries\color{darkblue}}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{5pt}
+
+\titleformat{\subsection}{\large\bfseries}{}{0em}{}
+\titlespacing{\subsection}{0pt}{6pt}{3pt}
+
+% No page numbering
+\pagestyle{empty}
+
+% No indentation
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% HEADER
+\begin{center}
+    {\Huge\bfseries\color{darkblue} DIEGO PEROZO}\\[4pt]
+    {\large FullStack Developer | Software Engineer}\\[8pt]
+    
+    \begin{tabular}{c c c}
+        \faEnvelope\ diegodapt18@gmail.com & 
+        \faPhone\ +34 643891809 & 
+        \faMapMarker\ Spain \\
+    \end{tabular}\\[2pt]
+    
+    \begin{tabular}{c c c}
+        \faLinkedin\ linkedin.com/in/diegoperozotroncone & 
+        \faGithub\ github.com/dapt4 & 
+        \faGlobe\ dapt4.github.io/reactportfolio24 \\
+    \end{tabular}
+\end{center}
+
+\vspace{6pt}
+
+% PROFESSIONAL SUMMARY
+\section*{PROFESSIONAL SUMMARY}
+FullStack Developer with over 5 years of experience specialized in Python/Flask and JavaScript/Express. Expert in scalable architectures, microservices, and end-to-end development. Focused on high-performance solutions combining distributed backends (REST/Microservices) with modern reactive frontends.
+
+% TECHNICAL SKILLS
+\section*{TECHNICAL SKILLS}
+
+\textbf{Backend Development:} Python (Flask, Django, FastAPI), Node.js (Express), API REST, Microservices, Webhooks, SQL (PostgreSQL, MySQL, MariaDB), MongoDB, Redis
+
+\textbf{Frontend Development:} JavaScript, TypeScript, React, Vue.js, Angular, Nuxt, Ionic, Cordova, Sass, Tailwind, Vite
+
+\textbf{DevOps \& Tools:} Docker, SSH, Linux VM, Git (GitHub, GitLab), Prometheus, Grafana, Process Automation (Bash/Python), WSL2, OpenVPN
+
+\textbf{Methodologies \& Testing:} SCRUM, Kanban, Jest, Vitest, Linear
+
+% PROFESSIONAL EXPERIENCE
+\section*{PROFESSIONAL EXPERIENCE}
+
+\subsection*{Computer Systems Analyst (FullStack Developer)}
+\textbf{Ultreya Soluciones S.L.} \hfill \textit{Jun 2025 - Present}
+
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+    \item Backend development with Python, Flask, SQL, MongoDB, and MariaDB
+    \item Implementation of microservices architectures and webhooks
+    \item Frontend development with React, Tailwind, and Vite
+    \item Systems management: SSH, Docker, process automation with Bash/Python scripts
+    \item Monitoring and optimization with Prometheus, Grafana, and Redis
+\end{itemize}
+
+\textit{Technologies:} Python, Flask, React, Tailwind, Vite, SQL, MongoDB, MariaDB, Docker, Redis, Microservices
+
+\subsection*{Mobile FullStack Developer}
+\textbf{Asesoría y Medios de Gestión S.L.} \hfill \textit{May 2024 - Jun 2025}
+
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+    \item Mobile application development with Ionic, Cordova, and Angular
+    \item Backend development with Python, Flask, Node.js, and Express
+    \item Implementation of best practices and shared services across applications
+    \item REST API integration with SQL and MariaDB databases
+\end{itemize}
+
+\textit{Technologies:} Ionic, Cordova, Angular 15, Sass, Python, Flask, Node.js, Express, MariaDB, SQL
+
+\subsection*{FullStack Developer}
+\textbf{With Madrid S.L.} \hfill \textit{Dec 2023 - May 2024}
+
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+    \item Frontend and backend development for banking institution
+    \item Creation of models, endpoints, and UI integration
+    \item Focus on data security and feature optimization
+    \item Implementation of features using Django/Wagtail and Vue.js/Nuxt
+\end{itemize}
+
+\textit{Technologies:} Python, Django, Wagtail, Nuxt, Vue.js, TypeScript, Sass, Vuex
+
+\subsection*{Frontend Developer}
+\textbf{Argotec S.L.} \hfill \textit{Jan 2020 - Dec 2023}
+
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+    \item Development from scratch of agriculture application with maps and charts
+    \item Creation of reusable and functional components
+    \item Application standardization to improve usability
+    \item Integration of Highcharts and Leaflet for data visualization
+\end{itemize}
+
+\textit{Technologies:} TypeScript, Sass, Highcharts, Leaflet, Angular
+
+% FEATURED PROJECTS
+\section*{FEATURED PROJECTS}
+
+\subsection*{Web Application for Banking Institution - CA Mon Commerce}
+\textbf{With Madrid S.L.} \hfill \textit{Dec 2023 - May 2024}
+
+Web application for public appointment scheduling with user registration, calendar management, and automated notifications. URL: ca-moncommerce.com
+
+\subsection*{Agricultural Web Platform - Argotec S.L.}
+\textbf{Argotec S.L.} \hfill \textit{Jan 2020 - Dec 2023}
+
+Web application for agricultural data management, crop monitoring, and resource optimization. URL: qampo.es
+
+% EDUCATION
+\section*{EDUCATION}
+
+\textbf{Backend Development with Python (Django, Flask, FastAPI)} \hfill 2017\\
+Platzi - platzi.com
+
+\textbf{Bachelor of Graphic Design} \hfill 2014\\
+University Rafael Belloso Chacín
+
+% SOFT SKILLS
+\section*{SOFT SKILLS}
+Problem Solving, Critical Thinking, Teamwork, Communication, Mentoring
+
+\end{document}
