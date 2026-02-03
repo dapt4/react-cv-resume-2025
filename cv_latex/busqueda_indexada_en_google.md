@@ -1,7 +1,7 @@
 - site:*.lever.co Backend Developer
-- site:recruitee.com backend madrid
-- site:apply.workable.com python developer Europe
-- site:ashbyhq.com backend developer Europe ✅
+- site:recruitee.com backend madrid x
+- site:apply.workable.com fullstack python spain x
+- site:ashbyhq.com fullstack python spain x
 - site:tellent.com fullstack python spain
 
 
