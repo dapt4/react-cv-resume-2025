@@ -29,3 +29,11 @@ espacio.
 
 # el C en ingles
 ahora dame lo mismo en ingles
+
+# el D en ingles y desde ahora en adelante
+Toma este PDF, optimizalo para optar a vacantes de desarrollador fullstack con
+enfoque en python/flask y javascript/express. Genera un cv optimizado para ATS
+y una version del mismo en latex con plantillas sencillas. no puedes suprimir 
+niguna experiencia laboral, tambien quiero que aparezca en texto el linkedin, 
+el github y el portafolio en lugar de enlaces, es decir, organiza bien el 
+espacio. Recuerda que lo quiero en ingles.
