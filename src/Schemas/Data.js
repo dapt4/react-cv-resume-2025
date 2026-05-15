@@ -80,7 +80,7 @@ export const Data = {
     works: [
       {
         title: "Computer systems analyst (FullStack dev)",
-        period: "Jun 2025 - Present",
+        period: "Jun 2025 - jan 2026",
         company: "Ultreya Soluciones S.L.",
         description: [
           `Backend development with: Python, Flask, SQL, MongoDB, MariaDB; frontend 
