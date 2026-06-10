@@ -22,7 +22,7 @@ export const Data = {
       "Ionic, Cordova",
       "typescript",
       "javascript",
-      "nopdejs",
+      "nodejs",
       "sass",
       "python",
       "Flask",
