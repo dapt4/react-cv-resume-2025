@@ -10,13 +10,15 @@ import { Menu } from "../Components/Menu";
 // import { Menu2 } from "../Components/Menu2";
 import { SEO } from "../Components/SEO";
 
-import { Data as dataSchema } from "../Schemas/Data";
+import { DataEN as dataSchema } from "../Schemas/Data";
+import { DataES as dataSchemaEs } from "../Schemas/Data";
 // import { Menu as menuSchema } from "../Schemas/Menu";
 
 
 export const Resume = () => {
   const query = "(min-width: 968px)";
   const [matches, setMatches] = useState(window.matchMedia(query).matches);
+  const [lang, setLang] = useState(true);
 
   useEffect(() => {
     const media = window.matchMedia(query);
@@ -25,23 +27,27 @@ export const Resume = () => {
     return () => media.removeEventListener("change", listener);
   }, [matches]);
 
-  const { profile, aboutMe, skills, socialMedia, experience } = dataSchema;
+  const handleLang = () => {
+    setLang(!lang)
+  };
+
+  const { profile, aboutMe, skills, socialMedia, experience } = lang === true ? dataSchema : dataSchemaEs;
   return (
     <>
       <SEO {...profile} {...aboutMe} />
       {/*!matches && <Menu2 {...menuSchema} />*/}
-      <Menu />
+      <Menu handleLang={handleLang} lang={lang}/>
       <main className="l-main bd-container" id="bd-container">
         <div className="resume" id="area-cv">
           <div className="resume__left">
             <Profile {...profile} {...socialMedia} isMobileView={!matches} />
             <AboutMe {...aboutMe} />
-            <Academic {...experience} />
+            <Academic {...experience} label={skills.academicLabel} />
             <Skills {...skills} />
           </div>
           <div className="resume__right">
-            <Works {...experience} />
-            <Proyects {...experience} />
+            <Works {...experience} label={skills.experienceLabel} />
+            <Proyects {...experience} label={skills.projectsLabel} />
           </div>
         </div>
       </main>

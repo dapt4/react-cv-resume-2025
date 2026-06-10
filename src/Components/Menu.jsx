@@ -1,19 +1,17 @@
-export function Menu() {
+export function Menu({ lang, handleLang }) {
   const handleExport = () => {
     console.log("Exporting to PDF3");
     window.print();
   };
+
   return (
     <header className="l-header no-print" id="header">
-      <nav className="nav bd-container">
-        <div className="nav__menu show-menu" id="nav-menu">
-          <ul className="nav__list">
-            {/*}<li className="nav__item">
-              <span className="nav__link">
-                <i className="bx bx-home nav__icon" /> Guardar en PDF
-              </span>
-              </li>*/}
-          </ul>
+      <nav className="nav bd-container flexifier">
+        <div className="nav__toggle--fixed" id="nav-toggle">
+          <i className="bx bx-translate nav__icon" />
+          <span onClick={handleLang} className="nav__logo">
+            {lang === true ? "Read in spanish" : "Leer en ingles "}
+          </span>
         </div>
         <div className="nav__toggle--fixed" id="nav-toggle">
           <i className="bx bx-save nav__icon" />

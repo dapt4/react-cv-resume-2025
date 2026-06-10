@@ -661,6 +661,17 @@ button.generate__btn {
   margin-bottom: 0px;
 }
 
+.align_left {
+  position: absolute;
+  left: 20px;
+}
+
+.flexifier{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
 
 /*html {*/
 /*  font-size: 80%;*/ /* for make the text more small */
