@@ -9,10 +9,19 @@ export const DataEN = {
   },
   aboutMe: {
     label: "Profile",
+    description: `
+      Full Stack Developer specialized in Python, Flask, Node.js, Express, 
+      TypeScript, and Angular. Experienced in web application development, 
+      REST APIs, and using AI agents to enhance development processes, building 
+      scalable and maintainable solutions.
+`,
+  },
+  /*aboutMe: {
+    label: "Profile",
     description: `Focused on scalability and performance.
     I deliver end-to-end solutions by combining reactive frontend architectures
     with distributed backends (Microservices/REST).`,
-  },
+  },*/
   skills: {
     academicLabel: "Education",
     technicalLabel: "Technologies",
@@ -186,18 +195,26 @@ export const DataES = {
     telephone: "+34 643891809",
     image: "images/me.jpeg",
   },
-
   aboutMe: {
+    label: "Perfil",
+    description: `
+      Full Stack Dev especializado en Python, Flask, Node.js, Express,
+      TypeScript y Angular. Desarrollo de aplicaciones web, 
+      APIs REST y uso de agentes de IA para mejorar procesos de desarrollo, 
+      creando soluciones escalables y mantenibles.
+`,
+  },
+  /*aboutMe: {
     label: "Perfil",
     description: `Enfocado en la escalabilidad y el rendimiento.
     Desarrollo soluciones integrales combinando arquitecturas frontend reactivas
     con backends distribuidos (Microservicios/REST).`,
-  },
-
+  },*/
   skills: {
     academicLabel: "Educación",
     technicalLabel: "Tecnologías",
-    softLabel: "Habilidades Blandas",
+    // softLabel: "Habilidades Blandas",
+    softLabel: "Soft Skills",
     languagesLabel: "IDIOMAS",
     experienceLabel: "Experiencia",
     projectsLabel: "Proyectos",
