@@ -12,9 +12,9 @@ export const Options = () => {
     console.error(`All Cookies blocked - Error: ${e.message}`);
   }
 
-  const [theme, setTheme] = useState(lsTheme || "dark"); //  "light"
-  const [icon, setIcon] = useState(lsIcon || "bx-sun"); // bx-moon
-  const [snow, setSnow] = useState(lsSnow || true); // false
+  const [theme, setTheme] = useState(lsTheme || "light"); //  "dark"
+  const [icon, setIcon] = useState(lsIcon || "bx-moon"); // "bx-sun"
+  const [snow, setSnow] = useState(lsSnow || false); // true
 
   useEffect(() => {
     localStorage.setItem("theme", theme);
