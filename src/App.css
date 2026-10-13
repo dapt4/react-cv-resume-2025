@@ -248,13 +248,14 @@ body.dark-theme {
 }
 
 .home__img {
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   justify-self: center;
   margin-bottom: var(--mb-1);
   aspect-ratio: 1/1;
 }
+
 
 .home__title {
   font-size: var(--h1-font-size);
@@ -671,6 +672,11 @@ button.generate__btn {
   justify-content: space-around;
   align-items: center;
 }
+
+.mt20 {
+  margin-top: 20px;
+}
+
 
 
 /*html {*/
